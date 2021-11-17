@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2414b3c0-6f31-096e-f2b1-248ea50a8348"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Chemistry of Biomolecules I",
+  "course_description": "5.451 is a half-semester introduction to natural product biosynthetic pathways. The course covers the assembly of complex polyketide, peptide, terpene and alkaloid structures. Discussion topics include chemical and biochemical strategies used to elucidate natural product pathways.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.451",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
